@@ -1,4 +1,4 @@
-# KosMate – Tahap 4 (PAW)
+# KosMate (PAW)
 
 Prototype frontend untuk aplikasi manajemen kehidupan anak kos.
 
